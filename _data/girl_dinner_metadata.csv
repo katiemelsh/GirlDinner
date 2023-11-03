@@ -1,5 +1,5 @@
 title,author,date,publisher,format,subject,scanormodel,objectid,pages,acquisition,rights,filename
-The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,application/gltf-buffer,Fantasy fiction,Model,9781250810182,298,Illumicrate,Fair Use,TheBookEaters_Dean_3DModel.gltf
+The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,model/gltf-binary,Fantasy fiction,Model,9781250810182,298,Illumicrate,Fair Use,TheBookEaters_Dean_3DModel.gltf
 Gideon the Ninth,"Muir, Tamsyn",2019,Tom Doherty Associates,application/gltf-buffer,Science fiction,Model,9781250313195,448,Illumicrate,Fair Use,GideonTheNinth_Muir_3DModel.gltf
 Harrow the Ninth,"Muir, Tamsyn",2020,Tom Doherty Associates,application/gltf-buffer,Fantasy fiction,Model,9781250313225,512,Illumicrate,Fair Use,HarrowTheNinth_Muir_3DModel.gltf
 Nona the Ninth,"Muir, Tamsyn",2022,Tom Doherty Associates,application/gltf-buffer,Science fiction,Model,9781250854117,480,Illumicrate,Fair Use,NonaTheNinth_Muir_3DModel.gltf
@@ -20,4 +20,4 @@ A Restless Truth,"Marske, Freya",2022,Tordotcom,Book,Fantasy fiction,Scan,978125
 The Burning God,"Kuang, R.F.",2021,Harper Voyager,Book,Fantasy fiction,Scan,9780062662620,640,Forbidden Planet,Fair Use,TheBurningGod_Kuang_Scan
 The First Sister,"Lewis, Linden",2020,Skybound Books,Book,Science fiction,Scan,9781982126995,352,Gift,Fair Use,TheFirstSister_Lewis_Scan
 The Unbroken,"Clark, C.L.",2021,Orbit,Book,Fantasy fiction,Scan,9780316542753,529,Gift,Fair Use,TheUnbroken_Clark_Scan
-The Sword of Kaigen,"Wang, M.L.",2018,Independently Published,application/gltf-buffer,Fantasy fiction,Model,9781720193869,630,Kickstarter,Fair Use,SwordOfKaigen_Wang_3DModel.gltf
+The Sword of Kaigen,"Wang, M.L.",2018,Independently Published,model/gltf+json,Fantasy fiction,Model,9781720193869,630,Kickstarter,Fair Use,SwordOfKaigen_Wang_3DModel.gltf
