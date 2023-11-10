@@ -1,7 +1,7 @@
 title,author,date,publisher,format,subject,scanormodel,parentid,objectid,pages,acquisition,rights,filename
-The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,,Fantasy fiction,,,9781250810182,298,Illumicrate,Fair Use,TheBookEaters_Dean_3DModel.gltf
+The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,compound_object,Fantasy fiction,,,9781250810182,298,Illumicrate,Fair Use,
 The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,model/gltf+json,Fantasy fiction,Model,9781250810182,9781250810182-1,298,Illumicrate,Fair Use,TheBookEaters_Dean_3DModel.gltf
-The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,image/jpg,Fantasy fiction,Model,9781250810182,9781250810182-2,298,Illumicrate,Fair Use,TheBookEaters_Dean_Scan.jpg
+The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,image/jpg,Fantasy fiction,Scan,9781250810182,9781250810182-2,298,Illumicrate,Fair Use,TheBookEaters_Dean_Scan.jpg
 Gideon the Ninth,"Muir, Tamsyn",2019,Tom Doherty Associates,application/gltf-buffer,Science fiction,Model,,9781250313195,448,Illumicrate,Fair Use,GideonTheNinth_Muir_3DModel.gltf
 Harrow the Ninth,"Muir, Tamsyn",2020,Tom Doherty Associates,application/gltf-buffer,Fantasy fiction,Model,,9781250313225,512,Illumicrate,Fair Use,HarrowTheNinth_Muir_3DModel.gltf
 Nona the Ninth,"Muir, Tamsyn",2022,Tom Doherty Associates,application/gltf-buffer,Science fiction,Model,,9781250854117,480,Illumicrate,Fair Use,NonaTheNinth_Muir_3DModel.gltf
