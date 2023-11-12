@@ -19,8 +19,12 @@ A Day of Fallen Night,"Shannon, Samantha",2023,Blommsbury Circus,compound_object
 She Who Became the Sun,"Parker-Chan, Shelley",2021,TOR; Tom Doherty Associates,image/jpeg,Fiction,Scan,,9781250621801,416,Illumicrate,Fair Use,SheWhoBecameTheSun_ParkerChan_Scan
 The Tiger's Daughter,"Arsenault Rivera, K",2017,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Scan,,9780765392534,526,Gift,Fair Use,TheTigersDaughter_ArsenaultRivera_Scan
 The Pheonix Empress,"Arsenault Rivera, K",2018,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Scan,,9780765392572,544,Gift,Fair Use,
-Legends & Lattes,"Baldree, Travis ",2022,TOR; Tom Doherty Associates,application/gltf-buffer,Fantasy fiction,Scan,,9781035007301,320,Inkstone Books,Fair Use,Legends&Lattes_Baldree_3DModel.gltf
-Bookshops & Bonedust,"Baldree, Travis ",2023,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Scan,,9781250886118,352,Event,Fair Use,
+Legends & Lattes,"Baldree, Travis ",2022,TOR; Tom Doherty Associates,compound_object,Fantasy fiction,,,9781035007301,320,Inkstone Books,Fair Use,
+Legends & Lattes,"Baldree, Travis ",2022,TOR; Tom Doherty Associates,application/gltf-buffer,Fantasy fiction,Model,9781035007301,9781035007301-1,320,Inkstone Books,Fair Use,Legends&Lattes_Baldree_3DModel.gltf
+Legends & Lattes,"Baldree, Travis ",2022,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Scan,9781035007301,9781035007301-2,320,Inkstone Books,Fair Use,Legends&Lattes_Baldree_signature.jpg
+Bookshops & Bonedust,"Baldree, Travis ",2023,TOR; Tom Doherty Associates,compound_object,Fantasy fiction,,,9781250886118,352,Event,Fair Use,
+Bookshops & Bonedust,"Baldree, Travis ",2023,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Scan,9781250886118,9781250886118-1,352,Event,Fair Use,Bookshops&Bonedust_Baldree_Cover.jpg
+Bookshops & Bonedust,"Baldree, Travis ",2023,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Scan,9781250886118,9781250886118-2,352,Event,Fair Use,Bookshops&Bonedust_Baldree_signature.jpg
 Godkiller,"Kaner, Hannah",2022,Harper Voyager,application/gltf-buffer,Fantasy fiction,Scan,,9780063348271,304,Illumicrate,Fair Use,Godkiller_Kaner_3DModel.gltf
 The Luminaries ,"Dennard, Susan",2022,TOR; Tom Doherty Associates,image/jpeg,Fiction,Scan,,9781250194046,294,Illumicrate,Fair Use,Luminaries_Dennard_Scan
 A Restless Truth,"Marske, Freya",2022,Tordotcom,image/jpeg,Fantasy fiction,Scan,,9781250788931,400,Illumicrate,Fair Use,ARestlessTruth_Marske_Scan
