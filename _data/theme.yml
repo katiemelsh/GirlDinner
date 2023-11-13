@@ -112,8 +112,8 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   icon-pdf: file-pdf
 #   icon-record: file-text
 #   icon-compound-object: collection
-#   icon-multiple: book.svg
-#   icon-default: file-earmark # fall back icon
+#   icon-multiple: book
+#   icon-default: book # fall back icon
 #   icon-back-to-top: arrow-up-square # scroll to top icon
 #   arrow-left: arrow-left
 #   arrow-right: arrow-right
