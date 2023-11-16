@@ -14,7 +14,7 @@ credits: true
 
 ## How to Use This Collection
 
-This collection contains 3D models of books which are not supported in the UI. To view these models, navigate to the Browse page, locate and click on a book that you would like to view a model for, then click the Download button (located under the image of the signature page), and select the item that says "Book Title (model/gltf+json). Once the item has downloaded, you can click to open the downloaded file on your computer's 3D View application. 
+This collection contains 3D models of books which are not supported in the UI. To view these models, navigate to the Browse page, locate and click on a book that you would like to view a model for, then click the Download button (located under the image of the signature page), and select the item that says "Book Title (model/gltf+json)". Once the item has downloaded, you can click to open the downloaded file on your computer's 3D View application. 
 
 ## About the Collection
 
