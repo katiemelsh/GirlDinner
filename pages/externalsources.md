@@ -2,6 +2,7 @@
 title: External Sources
 layout: page
 permalink: /externalsources.html
+---  
 
 ## External Resources  
 
