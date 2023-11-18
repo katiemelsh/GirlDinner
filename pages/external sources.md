@@ -2,7 +2,8 @@
 title: External Sources
 layout: about
 permalink: /externalsources.html
-# see _data/config-metadata.csv for display options
-# do not add content to this file
----
+
+## External Resources  
+
+This collection uses information for a variety of outside resources, such as the Library of Congress's catalog and publisher websites. This page serves as a reference source for those external resources.
 
