@@ -60,6 +60,43 @@
 .tagcloud9{font-size:2.8em;}
 .tagcloud10{font-size:3.0em;}
 
+/* External Resources */
+.externalsources-nav {
+    line-height: 1.5em; 
+    z-index: 10;
+}
+/* creating a narrow text column */ 
+.externalsources-contents > {
+    h2 {
+        font-weight: bold;
+        padding-top: 100px;
+        border-top: 1px dotted black;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        max-width: 650px;
+        margin: 1.5rem auto 1rem;
+    }
+    
+    p, .externalsources-narrowed-content, .footnotes, ol, ul, blockquote {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 650px;
+    }
+
+    blockquote {
+        font-size: 1.75rem;
+    }
+
+}
+
+/* narrow text block for page-narrow layout */
+.page-narrow {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* About */
 .about-nav {
