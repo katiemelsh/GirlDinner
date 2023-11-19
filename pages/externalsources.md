@@ -27,7 +27,7 @@ Forbidden Planet|https://forbiddenplanet.com/catalog/books/|
 Bloomsbury Publishing|https://www.bloomsbury.com/us/|
 Harper Collins|https://www.harpercollins.com/collections/harper-voyager|
 Skybound Books|"https://store.skybound.com/collections/books-13|  
-
+<br>
 Once you have navigated to the desired website, you can search for the book you are looking for using the search bar at the top of the page.  
 
 ____  
