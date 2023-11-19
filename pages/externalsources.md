@@ -21,13 +21,12 @@ ____
 Some books may not have entries in the Library of Congress Catalog. To find information needed for the metadata application profile, you can navigate to the publisher websites listed below to view information about each book.  
 
 **Publisher Name**|**Publisher Website**
-:-----:|:-----:
- | 
-TOR; Tom Doherty Associates|https://www.tor.com/search-page/
-Forbidden Planet|https://forbiddenplanet.com/catalog/books/
-Bloomsbury Publishing|https://www.bloomsbury.com/us/
-Harper Collins|https://www.harpercollins.com/collections/harper-voyager
-Skybound Books|"https://store.skybound.com/collections/books-13  
+:-----:|:-----:| 
+TOR; Tom Doherty Associates|https://www.tor.com/search-page/|
+Forbidden Planet|https://forbiddenplanet.com/catalog/books/|
+Bloomsbury Publishing|https://www.bloomsbury.com/us/|
+Harper Collins|https://www.harpercollins.com/collections/harper-voyager|
+Skybound Books|"https://store.skybound.com/collections/books-13|  
 
 Once you have navigated to the desired website, you can search for the book you are looking for using the search bar at the top of the page.  
 
