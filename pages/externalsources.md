@@ -22,7 +22,6 @@ Some books may not have entries in the Library of Congress Catalog. To find info
 
 <iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-NjcnO325O5DDXpy8tBo/view"></iframe>  
 
-<br>
 Once you have navigated to the desired website, you can search for the book you are looking for using the search bar at the top of the page.  
 
 ____  
