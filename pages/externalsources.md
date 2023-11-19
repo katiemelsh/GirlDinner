@@ -7,10 +7,12 @@ permalink: /externalsources.html
 ## External Resources  
 
 The metadata used in this collection relies on information from a variety of outside resources, such as the Library of Congress's catalog and publisher websites. This page serves as a reference source for those external resources. Please use the links below to navigate to each source and review the [Entering Metadata for the Girl Dinner Collection Guide](https://docs.google.com/document/d/1DmbsjVqlAgDVZoumsQ3CbgYSKEmactEOl21RY-A-cTY/edit?usp=sharing). 
+---  
 
 ## Library of Congress Catalog  
 
 This collection uses the Library of Congress Catalog for the title, creator, publisher, page numbers, objectid, and subjects fields in the metadata application profile. You can use [this link](https://catalog.loc.gov/) to navigate to the Library of Congress Catalog page.   
+---  
 
 ## Publisher Websites  
 
