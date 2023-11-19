@@ -7,12 +7,14 @@ permalink: /externalsources.html
 ## External Resources  
 
 The metadata used in this collection relies on information from a variety of outside resources, such as the Library of Congress's catalog and publisher websites. This page serves as a reference source for those external resources. Please use the links below to navigate to each source and review the [Entering Metadata for the Girl Dinner Collection Guide](https://docs.google.com/document/d/1DmbsjVqlAgDVZoumsQ3CbgYSKEmactEOl21RY-A-cTY/edit?usp=sharing). 
-____
+
+____  
 
 ## Library of Congress Catalog  
 
 This collection uses the Library of Congress Catalog for the title, creator, publisher, page numbers, objectid, and subjects fields in the metadata application profile. You can use [this link](https://catalog.loc.gov/) to navigate to the Library of Congress Catalog page.   
-____
+
+____  
 
 ## Publisher Websites  
 
@@ -35,4 +37,4 @@ ____
 
 Monthly subscription book subscription boxes like Illumicrate have become a popular service for bibliophiles. Each subscription service offers slightly different options, however, the specific service that was used for this collection is the Monthly Book Only subscription option by Illumicrate. Below is a list of links to a few examples of book subscription services to help add some additional context to this collection.  
 
-<iframe width="100%" height="600" style="border: none;" src="https://app.awesome-table.com/-NjcjZVjDtDiBJYowlBj/view"></iframe>
+<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-NjcjZVjDtDiBJYowlBj/view"></iframe>
