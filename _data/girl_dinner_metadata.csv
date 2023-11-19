@@ -2,15 +2,15 @@ title,creator,date,publisher,format,subject,type,parentid,objectid,pages,acquisi
 The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,multiple,Fantasy fiction,Model + Image,,9781250810182,298,Illumicrate,Fair Use,
 The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,model/gltf+json,Fantasy fiction,Model,9781250810182,9781250810182-1,298,Illumicrate,Fair Use,BookEaters_Dean_3DModel.gltf
 The Book Eaters,"Dean, Sunyi",2022,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Image,9781250810182,9781250810182-2,298,Illumicrate,Fair Use,BookEaters_Dean_signature.jpg
-Gideon the Ninth,"Muir, Tamsyn",2019,Tom Doherty Associates,multiple,Science fiction,Model + Image,,9781250313195,448,Illumicrate,Fair Use,
-Gideon the Ninth,"Muir, Tamsyn",2019,Tom Doherty Associates,model/gltf+json,Science fiction,Model,9781250313195,9781250313195-1,448,Illumicrate,Fair Use,GideontheNinth_Muir_3DModel.gltf
-Gideon the Ninth,"Muir, Tamsyn",2019,Tom Doherty Associates,image/jpeg,Science fiction,Image,9781250313195,9781250313195-2,448,Illumicrate,Fair Use,GideontheNinth_Muir_signature.jpg
-Harrow the Ninth,"Muir, Tamsyn",2020,Tom Doherty Associates,multiple,Fantasy fiction,Model + Image,,9781250313225,512,Illumicrate,Fair Use,
-Harrow the Ninth,"Muir, Tamsyn",2020,Tom Doherty Associates,model/gltf+json,Fantasy fiction,Model,9781250313225,9781250313225-1,512,Illumicrate,Fair Use,HarrowTheNinth_Muir_3DModel.gltf
-Harrow the Ninth,"Muir, Tamsyn",2020,Tom Doherty Associates,image/jpeg,Fantasy fiction,Image,9781250313225,9781250313225-2,512,Illumicrate,Fair Use,HarrowTheNinth_Muir_signature.jpg
-Nona the Ninth,"Muir, Tamsyn",2022,Tom Doherty Associates,multiple,Science fiction,Model + Image,,9781250854117,480,Illumicrate,Fair Use,
-Nona the Ninth,"Muir, Tamsyn",2022,Tom Doherty Associates,model/gltf+json,Science fiction,Model,9781250854117,9781250854117-1,480,Illumicrate,Fair Use,NonatheNinth_Muir_3DModel.gltf
-Nona the Ninth,"Muir, Tamsyn",2022,Tom Doherty Associates,image/jpeg,Science fiction,Image,9781250854117,9781250854117-2,480,Illumicrate,Fair Use,NonatheNinth_Muir_signature.jpg
+Gideon the Ninth,"Muir, Tamsyn",2019,TOR; Tom Doherty Associates,multiple,Science fiction,Model + Image,,9781250313195,448,Illumicrate,Fair Use,
+Gideon the Ninth,"Muir, Tamsyn",2019,TOR; Tom Doherty Associates,model/gltf+json,Science fiction,Model,9781250313195,9781250313195-1,448,Illumicrate,Fair Use,GideonTheNinth_Muir_3DModel.gltf
+Gideon the Ninth,"Muir, Tamsyn",2019,TOR; Tom Doherty Associates,image/jpeg,Science fiction,Image,9781250313195,9781250313195-2,448,Illumicrate,Fair Use,GideontheNinth_Muir_signature.jpg
+Harrow the Ninth,"Muir, Tamsyn",2020,TOR; Tom Doherty Associates,multiple,Fantasy fiction,Model + Image,,9781250313225,512,Illumicrate,Fair Use,
+Harrow the Ninth,"Muir, Tamsyn",2020,TOR; Tom Doherty Associates,model/gltf+json,Fantasy fiction,Model,9781250313225,9781250313225-1,512,Illumicrate,Fair Use,HarrowTheNinth_Muir_3DModel.gltf
+Harrow the Ninth,"Muir, Tamsyn",2020,TOR; Tom Doherty Associates,image/jpeg,Fantasy fiction,Image,9781250313225,9781250313225-2,512,Illumicrate,Fair Use,HarrowTheNinth_Muir_signature.jpg
+Nona the Ninth,"Muir, Tamsyn",2022,TOR; Tom Doherty Associates,multiple,Science fiction,Model + Image,,9781250854117,480,Illumicrate,Fair Use,
+Nona the Ninth,"Muir, Tamsyn",2022,TOR; Tom Doherty Associates,model/gltf+json,Science fiction,Model,9781250854117,9781250854117-1,480,Illumicrate,Fair Use,NonatheNinth_Muir_3DModel.gltf
+Nona the Ninth,"Muir, Tamsyn",2022,TOR; Tom Doherty Associates,image/jpeg,Science fiction,Image,9781250854117,9781250854117-2,480,Illumicrate,Fair Use,NonatheNinth_Muir_signature.jpg
 Princess Floralinda and the Forty-Flight Tower,"Muir, Tamsyn",2020,Forbidden Planet,multiple,Fantasy fiction,Multiple Images,,9781645240570,200,Subterranean Press,Fair Use,
 Princess Floralinda and the Forty-Flight Tower,"Muir, Tamsyn",2020,Forbidden Planet,image/jpeg,Fantasy fiction,Image,9781645240570,9781645240570-1,200,Subterranean Press,Fair Use,PrincessFloralindaandtheFortyFlightTower_Muir_cover.jpg
 Princess Floralinda and the Forty-Flight Tower,"Muir, Tamsyn",2020,Forbidden Planet,image/jpeg,Fantasy fiction,Image,9781645240570,9781645240570-2,200,Subterranean Press,Fair Use,PrincessFloralindaandtheFortyFlightTower_Muir_signature.jpg
@@ -23,9 +23,9 @@ The Atlas Paradox,"Blake, Olivie",2022,TOR; Tom Doherty Associates,image/jpeg,Fa
 The Priory of the Orange Tree,"Shannon, Samantha",2019,Bloomsbury Publishing,multiple,Fantasy fiction,Model + Image,,9781635570298,848,Illumicrate,Fair Use,
 The Priory of the Orange Tree,"Shannon, Samantha",2019,Bloomsbury Publishing,model/gltf+json,Fantasy fiction,Model,9781635570298,9781635570298-1,848,Illumicrate,Fair Use,PrioryoftheOrangeTree_Shannon_3Dmodel.gltf
 The Priory of the Orange Tree,"Shannon, Samantha",2019,Bloomsbury Publishing,image/jpeg,Fantasy fiction,Image,9781635570298,9781635570298-2,848,Illumicrate,Fair Use,PrioryoftheOrangeTree_Shannon_signature.jpg
-A Day of Fallen Night,"Shannon, Samantha",2023,Blommsbury Circus,multiple,Fantasy fiction,Multiple Images,,9781635577921,880,Illumicrate,Fair Use,
-A Day of Fallen Night,"Shannon, Samantha",2023,Blommsbury Circus,image/jpeg,Fantasy fiction,Image,9781635577921,9781635577921-1,880,Illumicrate,Fair Use,DayofFallenNight_Shannon_cover.jpg
-A Day of Fallen Night,"Shannon, Samantha",2023,Blommsbury Circus,image/jpeg,Fantasy fiction,Image,9781635577921,9781635577921-2,880,Illumicrate,Fair Use,DayofFallenNight_Shannon_signature.jpg
+A Day of Fallen Night,"Shannon, Samantha",2023,Bloomsbury Publishing,multiple,Fantasy fiction,Multiple Images,,9781635577921,880,Illumicrate,Fair Use,
+A Day of Fallen Night,"Shannon, Samantha",2023,Bloomsbury Publishing,image/jpeg,Fantasy fiction,Image,9781635577921,9781635577921-1,880,Illumicrate,Fair Use,DayofFallenNight_Shannon_cover.jpg
+A Day of Fallen Night,"Shannon, Samantha",2023,Bloomsbury Publishing,image/jpeg,Fantasy fiction,Image,9781635577921,9781635577921-2,880,Illumicrate,Fair Use,DayofFallenNight_Shannon_signature.jpg
 She Who Became the Sun,"Parker-Chan, Shelley",2021,TOR; Tom Doherty Associates,multiple,Fiction,Multiple Images,,9781250621801,416,Illumicrate,Fair Use,
 She Who Became the Sun,"Parker-Chan, Shelley",2021,TOR; Tom Doherty Associates,image/jpeg,Fiction,Image,9781250621801,9781250621801-1,416,Illumicrate,Fair Use,SheWhoBecametheSun_ParkerChan_cover.jpg
 She Who Became the Sun,"Parker-Chan, Shelley",2021,TOR; Tom Doherty Associates,image/jpeg,Fiction,Image,9781250621801,9781250621801-2,416,Illumicrate,Fair Use,SheWhoBecametheSun_ParkerChan_signature.jpg
