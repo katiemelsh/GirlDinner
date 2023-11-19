@@ -24,15 +24,15 @@ Some books may not have entries in the Library of Congress Catalog. To find info
 | Harper Voyager  | https://www.harpercollins.com/collections/harper-voyager  |
 | Skybound Books  | https://store.skybound.com/collections/books-13  |  
 
-  
+<br>
 Once you have navigated to the desired website, you can search for the book you are looking for using the search bar at the top of the page.  
 
 ## Illumicrate Information  
 
 Monthly subscription book subscription boxes like Illumicrate have become a popular service for bibliophiles. Each subscription service offers slightly different options, however, the specific service that was used for this collection is the Monthly Book Only subscription option by Illumicrate. Below is a list of links to a few examples of book subscription services to help add some additional context to this collection.  
 
-|  Subscription Service 	|  Subscription Types Offered 	|  Subscription website 	|  Past Boxes webpage 	|
-|---	|---	|---	|---	|
-|  Illumicrate 	|   Box (book + monthly theme items) or Book only	|   https://us.illumicrate.com/	|   https://us.illumicrate.com/past-boxes	|
+|  Subscription Service |  Subscription Types Offered |  Subscription website |  Past Boxes webpage |
+|---|---|---|---|
+|  Illumicrate |   Box (book + monthly theme items) or Book only	|   https://us.illumicrate.com/	|   https://us.illumicrate.com/past-boxes	|
 |   Fairyloot	|   Box (book + monthly theme items) or Book only	|   https://us.fairyloot.com/	|   https://us.fairyloot.com/blog/category/past-boxes/	|
 |   Owlcrate	|   Box (book + monthly theme items) or Book only	|   https://www.owlcrate.com/	|   https://www.owlcrate.com/blogs/owlcrate	|
