@@ -23,6 +23,10 @@ This collection is comprised of 3D models and still images of popular 21st centu
   
 The metadata fields for title, date, publisher, subject, page numbers, and objectid were taken from the Library of Congress' catalog page for each title. You can find more information about how the metadata for this collection was configured, as well as a guide on how to complete the metadata fields required for this collection [here](https://docs.google.com/document/d/1DmbsjVqlAgDVZoumsQ3CbgYSKEmactEOl21RY-A-cTY/edit?usp=sharing).  
 
-All materials covered in this collection adhere to the requirements for Fair Use under the [Section 107 of the Copyright Act](https://www.copyright.gov/fair-use/).
+All materials covered in this collection adhere to the requirements for Fair Use under the [Section 107 of the Copyright Act](https://www.copyright.gov/fair-use/).  
+
+## About the Creator  
+
+This collection was created by Katie Melsheimer, a graduate student in the Indiana University - Bloomington Master's of Library Sciences program. Katie is specializing in Rare Books and Manuscripts, but has a special interest in digital collections and digital outreach using primary sources. When not attending class or working, Katie enjoys reading, playing TTRPG with friends, and hiking or spending time with her partner and their 2 children.
 
 {% include feature/image.html objectid="9781250886118-1" width="75" caption="Bookshops & Bonedust by Travis Baldree" %}
