@@ -27,6 +27,8 @@ All materials covered in this collection adhere to the requirements for Fair Use
 
 ## About the Creator  
 
-This collection was created by Katie Melsheimer, a graduate student in the Indiana University - Bloomington Master's of Library Sciences program. Katie is specializing in Rare Books and Manuscripts, but has a special interest in digital collections and digital outreach using primary sources. When not attending class or working, Katie enjoys reading, playing TTRPG with friends, and hiking or spending time with her partner and their 2 children.
+This collection was created by Katie Melsheimer, a graduate student in the Indiana University - Bloomington Master's of Library Sciences program. Katie is specializing in Rare Books and Manuscripts, but has a special interest in digital collections and digital outreach using primary sources. When not attending class or working, Katie enjoys reading, playing TTRPG with friends, and hiking or spending time with her partner and their 2 children.  
+
+____________________________________  
 
 {% include feature/image.html objectid="9781250886118-1" width="75" caption="Bookshops & Bonedust by Travis Baldree" %}
